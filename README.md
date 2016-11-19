@@ -1,3 +1,4 @@
 # blue-submarine-particle
 
-with statespace stuff
+game with statespace stuff
+submarine simplified as particle, which is blue obviously.
