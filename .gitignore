@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#everything that starts with anything but ends with a tilde, ignore
+*~
+
