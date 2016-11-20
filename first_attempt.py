@@ -11,7 +11,7 @@ def rightKey(event):
 def upKey(event):
 	print "Upp"
 def downKey(event):
-	print "Feasises!"
+	print "Feces!"
 
 
 frame = Frame(main,width=100, height=100)
